@@ -1,0 +1,1 @@
+# Stockpredi-vitrine
